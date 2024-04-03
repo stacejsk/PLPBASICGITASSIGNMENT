@@ -1,2 +1,2 @@
 Project Name: Foodie 
-Project Description : A food <i class="fa fa-apple" aria-hidden="true"></i>
+Project Description : A food app. 
